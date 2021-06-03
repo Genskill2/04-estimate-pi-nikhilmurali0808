@@ -48,7 +48,7 @@ float mc_pi(int n)
    if(d<=1)
      count++;
  }
- float pi=(4*(float)count/(float)n;
+ float pi=(4*(float)count/(float)n);
            return pi;
  }
            
